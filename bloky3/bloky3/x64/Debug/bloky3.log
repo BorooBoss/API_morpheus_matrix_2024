@@ -1,0 +1,16 @@
+﻿  blok3.c
+C:\Users\boris\Desktop\2.semester\API\blok3\bloky3\bloky3\blok3.c(147,19): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\boris\Desktop\2.semester\API\blok3\bloky3\bloky3\blok3.c(149,13): warning C4047: 'return': 'int' differs in levels of indirection from 'int *'
+C:\Users\boris\Desktop\2.semester\API\blok3\bloky3\bloky3\blok3.c(198,94): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+C:\Users\boris\Desktop\2.semester\API\blok3\bloky3\bloky3\blok3.c(198,94): warning C4024: 'recieve_data': different types for formal and actual parameter 7
+C:\Users\boris\Desktop\2.semester\API\blok3\bloky3\bloky3\blok3.c(198,112): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+C:\Users\boris\Desktop\2.semester\API\blok3\bloky3\bloky3\blok3.c(198,112): warning C4024: 'recieve_data': different types for formal and actual parameter 10
+C:\Users\boris\Desktop\2.semester\API\blok3\bloky3\bloky3\blok3.c(201,19): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\boris\Desktop\2.semester\API\blok3\bloky3\bloky3\blok3.c(208,13): warning C4047: 'return': 'int' differs in levels of indirection from 'int *'
+C:\Users\boris\Desktop\2.semester\API\blok3\bloky3\bloky3\blok3.c(210,9): warning C4047: 'return': 'int' differs in levels of indirection from 'int **'
+C:\Users\boris\Desktop\2.semester\API\blok3\bloky3\bloky3\blok3.c(129,9): warning C4101: 'result_remp': unreferenced local variable
+C:\Users\boris\Desktop\2.semester\API\blok3\bloky3\bloky3\blok3.c(238,9): warning C4101: 'resultc': unreferenced local variable
+C:\Users\boris\Desktop\2.semester\API\blok3\bloky3\bloky3\blok3.c(237,9): warning C4101: 'resultp': unreferenced local variable
+C:\Users\boris\Desktop\2.semester\API\blok3\bloky3\bloky3\blok3.c(210,1): warning C4172: returning address of local variable or temporary: lines
+C:\Users\boris\Desktop\2.semester\API\blok3\bloky3\bloky3\blok3.c(125,1): warning C4715: 'send_data': not all control paths return a value
+  bloky3.vcxproj -> C:\Users\boris\Desktop\2.semester\API\blok3\bloky3\x64\Debug\bloky3.exe
